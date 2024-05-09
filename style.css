@@ -1,0 +1,19 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #1d1990
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #d89f1b;
+}
+.full-width-image {
+    width: 100%; 
+    display: block; 
+}
